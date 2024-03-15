@@ -33,7 +33,7 @@ To run this project, ensure that you have an appropriate Python environment with
 6. **scikit-learn**: A machine learning library for Python. It features various classification, regression, and clustering algorithms and is used for training traditional machine learning models, preprocessing data, and measuring the performance of models.
 
 ### Dataset for Facial Emotion Recognition
-
+Dataset Link - https://www.kaggle.com/datasets/msambare/fer2013/download?datasetVersionNumber=1
 One of the commonly used datasets for facial emotion recognition is the **FER-2013 (Facial Expression Recognition 2013)** dataset. This dataset was introduced in the ICML 2013 Challenges in Representation Learning. It contains grayscale images of faces, each labeled with one of seven emotion categories: anger, disgust, fear, happiness, sadness, surprise, and neutral.
 
 The dataset is typically split into training, validation, and test sets, with the training set used to train the model, the validation set to fine-tune the parameters, and the test set to evaluate the model's performance. The images are centered around the face, and each is 48x48 pixels in size.
